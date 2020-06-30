@@ -12,7 +12,7 @@ The Sinhala-Lyrics-Finder allows you to search sinhala song lyrics. You can simp
  
 1. First you need to clone the project.
     ```
-    git clone https://github.com/DimuthuMadushan/ballerinaGraphqlClient.git
+    git clone https://github.com/DimuthuMadushan/Sinhala-Lyrics-Finder.git
 
     ```
 
