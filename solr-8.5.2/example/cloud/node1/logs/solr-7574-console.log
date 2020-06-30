@@ -1,0 +1,14 @@
+2020-06-29 03:39:26,533 main ERROR Unable to move file I:\Downloads\ML\IRproject\solr-8.5.2\example\cloud\node1\solr\..\logs\solr.log to I:\Downloads\ML\IRproject\solr-8.5.2\example\cloud\node1\solr\..\logs\solr.log.10: java.nio.file.FileSystemException I:\Downloads\ML\IRproject\solr-8.5.2\example\cloud\node1\solr\..\logs\solr.log -> I:\Downloads\ML\IRproject\solr-8.5.2\example\cloud\node1\solr\..\logs\solr.log.10: The process cannot access the file because it is being used by another process
+2020-06-29 03:39:26,553 main ERROR Unable to delete file I:\Downloads\ML\IRproject\solr-8.5.2\example\cloud\node1\solr\..\logs\solr.log: java.nio.file.FileSystemException I:\Downloads\ML\IRproject\solr-8.5.2\example\cloud\node1\solr\..\logs\solr.log: The process cannot access the file because it is being used by another process
+2020-06-29 03:39:27.012 INFO  (main) [   ] o.e.j.u.log Logging initialized @3774ms to org.eclipse.jetty.util.log.Slf4jLog
+2020-06-29 03:39:27.372 INFO  (main) [   ] o.e.j.s.Server jetty-9.4.24.v20191120; built: 2019-11-20T21:37:49.771Z; git: 363d5f2df3a8a28de40604320230664b9c793c16; jvm 14.0.1+7
+2020-06-29 03:39:27.440 INFO  (main) [   ] o.e.j.d.p.ScanningAppProvider Deployment monitor [file:///I:/Downloads/ML/IRproject/solr-8.5.2/server/contexts/] at interval 0
+2020-06-29 03:39:28.409 INFO  (main) [   ] o.e.j.w.StandardDescriptorProcessor NO JSP Support for /solr, did not find org.apache.jasper.servlet.JspServlet
+2020-06-29 03:39:28.434 INFO  (main) [   ] o.e.j.s.session DefaultSessionIdManager workerName=node0
+2020-06-29 03:39:28.434 INFO  (main) [   ] o.e.j.s.session No SessionScavenger set, using defaults
+2020-06-29 03:39:28.439 INFO  (main) [   ] o.e.j.s.session node0 Scavenging every 600000ms
+2020-06-29 03:39:28.579 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter Using logger factory org.apache.logging.slf4j.Log4jLoggerFactory
+2020-06-29 03:39:28.585 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter  ___      _       Welcome to Apache Solr™ version 8.5.2
+2020-06-29 03:39:28.590 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter / __| ___| |_ _   Starting in cloud mode on port 7574
+2020-06-29 03:39:28.590 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter \__ \/ _ \ | '_|  Install dir: I:\Downloads\ML\IRproject\solr-8.5.2
+2020-06-29 03:39:28.591 INFO  (main) [   ] o.a.s.s.SolrDispatchFilter |___/\___/_|_|    Start time: 2020-06-29T03:39:28.591455200Z
